@@ -63,7 +63,7 @@ a:hover {
     min-width: 400px;
     height: 600px;
     background-image: linear-gradient(rgba(3, 1, 1, 0.2),   rgba(0, 0, 0, 0.2)), 
-    url("C:/Users/rodri/Downloads/Web_Dev/First_vs_project/resources/images/bgimage.jpg") ;
+    url("/Users/rodri/Downloads/Web_Dev/First_vs_project/resources/images/bgimage.jpg") ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -127,7 +127,7 @@ footer {
     margin: 0 auto;
     border-radius: 10px;
     background-image: linear-gradient(rgba(3, 1, 1, 0.2),   rgba(0, 0, 0, 0.2)), 
-    url("C:/Users/rodri/Downloads/Web_Dev/First_vs_project/resources/images/sky.jpg") ;
+    url("/Users/rodri/Downloads/Web_Dev/First_vs_project/resources/images/sky.jpg") ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -169,7 +169,7 @@ main {
     width: 100%;
     height: auto;
     background-image: linear-gradient(rgba(3, 1, 1, 0.2),   rgba(0, 0, 0, 0.2)), 
-    url("C:/Users/rodri/Downloads/Web_Dev/First_vs_project/resources/images/bg-image-2.jpg") ;
+    url("/Users/rodri/Downloads/Web_Dev/First_vs_project/resources/images/bg-image-2.jpg") ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
